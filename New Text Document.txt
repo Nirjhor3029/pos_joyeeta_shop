@@ -1,0 +1,36 @@
+#1. Product price  = Math.round() JS 
+
+ex: product cost: 8 tk hoile
+	price : 8 tk hobe .. (round korle)
+
+#2.Product Price (POS page)
+	getCustomerGroup -> percentage
+		customer_group_rate = (data / 100);
+		
+
+
+=========
+
+
+cash system neya hocche na..
+
+card allowed.. (joyeeta)
+
+per wk e shop er hoye tk uttolon kora hoy..
+
+TK: 
+proceed -> invoice theke amount..
+city bank er pos theke (2% kete ney.. ex: 2000* tk city bank theke asteche 1960tk )
+cash memo (joyeeta -> stall theke (ex: 19 no. stall))
+
+name optional into add-customer modal (Phone Number * required)
+
+====
+Discount option (Order Discount(%))
+
+=> Bill Hold
+
+cash/card
+
+-----
+payment gateway commisions 

@@ -1,0 +1,31 @@
+seller price (hidden): 100
+product price: 106
+discount: 
+vat: 
+paid amount : 106 + vat
+
+payable amount: paid amount - discount 
+paid by:
+
+
+
+Ekshop Global: 
+
+Admin URL: https://ekshop.global/wp-admin
+
+user: maynul
+email: maynul.elnino@gmail.com
+pass: Global@2022bd
+
+user: limon
+email: md.limonislam.bd@gmail.com
+pass: Global@2022bd
+
+user: masud
+email: masud.elnino@gmail.com
+pass: 	
+
+=============
+admin panel: https://ekshop.global/wp-admin
+credentials
+
